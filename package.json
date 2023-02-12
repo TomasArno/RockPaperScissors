@@ -1,0 +1,14 @@
+{
+  "name": "RockPaperScissors",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/TomasArno/RockPaperScissors",
+  "author": "Tomás Arno <arnotomas1@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel ./src/index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
