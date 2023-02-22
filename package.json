@@ -9,6 +9,7 @@
     "dev": "parcel ./src/index.html"
   },
   "devDependencies": {
+    "@types/node": "^18.14.0",
     "parcel": "^2.8.3"
   }
 }
